@@ -3,7 +3,7 @@ I am an undergrad student in Neurosciences at Université de Montréal. The prog
 
 # My Project for Brainhack School
 As you can see in the previous section, I don't have a strong background in computing. Therefore, for me Brainhack School is more about improving my computing skills.
-Project : Run fMRIprep and Niak preprocessing pipelines in a docker container and analyse the results.
+* Project : Run fMRIprep and Niak preprocessing pipelines in a docker container and analyse the results.
   * Get familiar with GitHub
   * Get familiar with Docker
   * Learn how to use Compute Canada ressources
